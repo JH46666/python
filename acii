@@ -1,0 +1,6 @@
+a=raw_input('please input an integer:')
+
+if int(a)>=10:
+		print a
+	else:	
+	print -int(-a)
